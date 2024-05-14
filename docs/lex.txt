@@ -1,0 +1,5 @@
+A Simple example:
+
+    # create new object
+    lexer = Lexer([("L_Paren", "(")])
+    lexer.lex()
